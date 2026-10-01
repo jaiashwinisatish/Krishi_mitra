@@ -154,20 +154,7 @@ flowchart TB
 
 ---
 
-## 🛠️ Tech Stack
 
-> 📝 **Replace with your actual stack.** The table below is a template.
-
-| Layer | Technology |
-|---|---|
-| **Frontend** | `<e.g. React / Next.js / HTML-CSS-JS / Streamlit>` |
-| **Backend** | `<e.g. Python (FastAPI / Flask) / Node.js (Express)>` |
-| **LLM / Agent framework** | `<e.g. Claude API / Gemini / OpenAI · LangChain / LangGraph / custom loop>` |
-| **Vision / ML** | `<e.g. plant-disease classifier, vision-capable LLM>` |
-| **Data & APIs** | `<e.g. Open-Meteo, Agmarknet, government scheme data>` |
-| **Database / Memory** | `<e.g. SQLite / MongoDB / Firebase>` |
-| **Voice & Language** | `<e.g. Web Speech API / Google TTS / Bhashini>` |
-| **Deployment** | `<e.g. Vercel / Render / Hugging Face Spaces>` |
 
 ---
 
