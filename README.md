@@ -33,7 +33,7 @@ Final Context-Aware Response
 
 🛠️ Technology Stack Category Technology Backend Framework FastAPI AI Core ResNet (PyTorch), Groq LLM Agent Framework LangGraph Weather API IndianAPI Weather Market Data data.gov APIs Knowledge Retrieval FAISS, Sentence-Transformers Deep Learning PyTorch Data Source Plant Diseases Dataset Language Python 📂 Project Structure ├── models/ │ ├── disease_model.py │ ├── market_model.py │ ├── tools.py # LangChain tools (disease, market, weather, schemes) ├── agent.py # LangGraph agent logic ├── main.py # FastAPI entry point ├── scheme.json # Government schemes data ├── requirements.txt └── README.md
 
-⚙️ Installation & Setup 1️⃣ Clone the Repository git clone https://github.com/Sarabjitsharma/KrishiMitra.git cd Krishi-Mitra
+⚙️ Installation & Setup 1️⃣ Clone the Repository git clone https://github.com/jaiashwinisatish/Krishi_mitra.git
 
 2️⃣ Create Virtual Environment python -m venv venv source venv/bin/activate # Windows: venv\Scripts\activate
 
@@ -54,7 +54,7 @@ Final Context-Aware Response
 🎥 Project Demo
 
 ▶️ Demo Video:
-Demo Video: https://drive.google.com/file/d/12ZVCXmb60-oLsCsPwBiFwJuoiuToPGzE/view?usp=sharing
+Demo Video:
 
 🌱 Future Enhancements
 
@@ -68,10 +68,3 @@ Voice-based assistant for rural accessibility
 
 Offline support for low-connectivity regions
 
-👨‍💻 Contributors
-
-Sarabjit Sharma
-
-Siddhant Walia
-
-Tanish Garg
